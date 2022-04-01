@@ -1,0 +1,21 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "#D#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:air"
+    },
+    "D": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:gold_block",
+    "count": 99
+  }
+}
+#Aquilix
